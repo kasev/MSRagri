@@ -1,14 +1,10 @@
-virtualenv
 jupyter
 ipykernel
 
+requests
+pyreadr
 pandas
-nltk
-gensim
-networkx
 scikit-learn
 
 matplotlib
 seaborn
-
-sddk
