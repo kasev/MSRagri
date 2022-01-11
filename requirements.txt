@@ -5,6 +5,10 @@ requests
 pyreadr
 pandas
 scikit-learn
+openpyxl
 
 matplotlib
 seaborn
+
+tempun
+sddk
